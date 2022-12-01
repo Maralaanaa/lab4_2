@@ -1,4 +1,4 @@
-package com.example.lab4_2;
+package com.example.lab4_23;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,6 +8,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.lab4_2.R;
 
 import data.DatabaseHandler;
 

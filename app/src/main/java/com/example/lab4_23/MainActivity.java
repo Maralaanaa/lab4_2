@@ -1,4 +1,4 @@
-package com.example.lab4_2;
+package com.example.lab4_23;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+
+import com.example.lab4_2.R;
 
 import data.DatabaseHandler;
 import model.MyWish;
